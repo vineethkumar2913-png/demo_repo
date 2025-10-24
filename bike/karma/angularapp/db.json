@@ -1,0 +1,31 @@
+{
+  "bikes": [
+    {
+      "brand": "Suzuki",
+      "model": "Access",
+      "type": "Scooter",
+      "costPerDay": 560,
+      "availableStatus": "Yes",
+      "contactNumber": "1234567890",
+      "id": 1
+    },
+    {
+      "brand": "Honda",
+      "model": "CBR 250R",
+      "type": "Sportbike",
+      "costPerDay": 800,
+      "availableStatus": "Yes",
+      "contactNumber": "9876543210",
+      "id": 2
+    },
+    {
+      "brand": "Yamaha",
+      "model": "FZ-S",
+      "type": "Street",
+      "costPerDay": 600,
+      "availableStatus": "No",
+      "contactNumber": "5678901234",
+      "id": 3
+    }
+  ]
+}
